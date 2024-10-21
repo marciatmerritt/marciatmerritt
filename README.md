@@ -1,4 +1,4 @@
-## Hi there 👋
+![welcomeGitHub](https://github.com/user-attachments/assets/8a25dbc0-6fe5-4c3f-80b3-9a2692c0cb5d)
 
 <!--
 **marciatmerritt/marciatmerritt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
