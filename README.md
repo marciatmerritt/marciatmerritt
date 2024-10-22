@@ -1,6 +1,6 @@
 <div id="header" align="center">
     <h1 align="left">Hi, 👋🏾 I'm Marcia </h1>
-    <img src="https://github.com/user-attachments/assets/21379ba4-1b37-49f8-94e8-cbd11bb38160" alt="Welcome Banner" style="max-width: 100%; height: auto;" />
+    <img src="https://github.com/user-attachments/assets/9b5865c0-d24e-4399-8ac2-0ba4567091dd" alt="Welcome Banner" style="max-width: 100%; height: auto;" />
     <div id="badges">
       <a href="https://www.linkedin.com/in/marcia-merritt-58662761/">
         <img src="https://img.shields.io/badge/-marciatmerritt-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn badge"/>
@@ -130,7 +130,7 @@ print(marcia.generate_elevator_pitch())
 
 ## Output
 
-```
+```console
 Hi, I’m Marcia Merritt, a passionate software engineer with over 12 years of experience in the tech industry. I have a solid foundation in programming languages such as Java ☕, JavaScript 🌐, Typescript 📜, HTML 🏗️, CSS 🎨, SQL 🗄️, Python 🐍, XML, and XSLT. I’m proficient in React ⚛️, Node.js 🌲, Git 🗂️, Docker 🐳, and VS Code 💻, along with databases like SQL Server 📊, and PostgreSQL 🐘.
 
 Recently, I completed a Full-Stack Software Engineering and Web Development certificate at Midlands Tech, which deepened my expertise in modern web technologies and fueled my passion for building user-friendly web applications. Currently, I am expanding my back-end skills by diving deeper into Node.js through RS school’s NodeJS2024Q3 online course, and I’m excited to be starting a Javascript Front-End online course with RS school 2024Q4 in late October.
