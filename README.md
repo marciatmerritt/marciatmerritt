@@ -1,15 +1,24 @@
-<div align="center">
-<img src="https://github.com/user-attachments/assets/21379ba4-1b37-49f8-94e8-cbd11bb38160" alt="Welcome Banner" style="max-width: 100%; height: auto;" />
+<div id="header" align="center">
+    <h1 align="left">Hi, 👋🏾 I'm Marcia </h1>
+    <img src="https://github.com/user-attachments/assets/21379ba4-1b37-49f8-94e8-cbd11bb38160" alt="Welcome Banner" style="max-width: 100%; height: auto;" />
+    <div id="badges">
+      <a href="https://www.linkedin.com/in/marcia-merritt-58662761/">
+        <img src="https://img.shields.io/badge/-marciatmerritt-blue?style=for-the-badge&logo=Linkedin&logoColor=white" alt="LinkedIn badge"/>
+      </a>
+      <a href="(https://discordapp.com/users/marciam2911">
+        <img src="https://img.shields.io/badge/marciam2911-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white">
+      </a>
+      <a href="mailto:marciatmerritt@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-marciatmerritt@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail: Marcia" />
+      </a>
+    </div>
+    <img src="https://komarev.com/ghpvc/?username=marciatmerritt&style=flat-square&color=blue" alt=""/>
 </div>
 
-<!-- # Hi, 👋🏾 I'm Marcia 👩🏾‍💻 -->
-![Linkedin: marcia](https://img.shields.io/badge/-marciatmerritt-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/marcia-merritt-58662761/)
-![Gmail: marcia](https://img.shields.io/badge/Gmail-marciatmerritt@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)
-<img alt="Discord" src="https://img.shields.io/badge/marciam2911-%237289DA.svg?style=flat-square&logo=discord&logoColor=white"/>
-<img alt="Slack" src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white" />
-
-
-## About Me
+<!-- [![LinkedIn: Marcia](https://img.shields.io/badge/-marciatmerritt-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/marcia-merritt-58662761/)
+[![Gmail: Marcia](https://img.shields.io/badge/Gmail-marciatmerritt@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:marciatmerritt@gmail.com)
+[![Discord: Marcia](https://img.shields.io/badge/marciam2911-%237289DA.svg?style=flat-square&logo=discord&logoColor=white)](https://discordapp.com/users/marciam2911)
+[![Slack: Marcia](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)](https://join.slack.com/t/marciam2911/shared_invite) -->
 
 ```python
 from datetime import datetime
