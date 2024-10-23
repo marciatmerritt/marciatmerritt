@@ -139,15 +139,15 @@ How do you see someone with my background fitting into your current initiatives?
 
 ## 🛠️ Technologies & Tools:
 <div style="width: 100%; margin: 0 auto;">
-  <table style="table-layout: fixed; width: 100%; border: none; border-collapse: collapse; background-color: #f0f4f8; border-radius: 8px;">
+  <table style="table-layout: fixed; width: 100%; border: none; border-collapse: collapse; background-color: #532f32; border-radius: 8px;">
   <tr>
-     <td style="width: 50%; vertical-align: top; padding: 20px; background-color: #e0ebf3;">
+     <td style="width: 50%; vertical-align: top; padding: 0 10px;">
       <h3 style="margin: 0; padding-bottom: 10px;">Programming Languages</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
     </td>
-    <td style="width: 50%; vertical-align: top; padding: 10px;">
+    <td style="width: 50%; vertical-align: top; padding: 0 10px 20px 0;">
       <h3 style="margin: 0; padding-bottom: 10px;">Frameworks & Libraries</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
@@ -158,7 +158,7 @@ How do you see someone with my background fitting into your current initiatives?
     </td>
   </tr>
   <tr>
-    <td style="width: 50%; vertical-align: top; padding: 0 10px;">
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
       <h3 style="margin: 0; padding-bottom: 10px;">Tools</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
@@ -166,7 +166,7 @@ How do you see someone with my background fitting into your current initiatives?
       <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
     </td>
-    <td style="width: 50%; vertical-align: top; padding: 0 10px;">
+    <td style="width: 50%; vertical-align: top; padding: 10px;">
       <h3 style="margin: 0; padding-bottom: 10px;">Databases & Markup</h3>
       <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
       <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
