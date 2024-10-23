@@ -162,6 +162,4 @@ How do you see someone with my background fitting into your current initiatives?
 
 ## 🔥 My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciatmerritt)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciatmerritt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
