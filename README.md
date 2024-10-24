@@ -10,7 +10,7 @@
       </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=marciatmerritt&style=flat-square&color=blue" alt=""/>
-    [![GitHub Marcia](https://img.shields.io/github/followers/marciatmerritt?label=follow&style=social)](https://github.com/marciatmerritt)
+<!--     [![GitHub Marcia](https://img.shields.io/github/followers/marciatmerritt?label=follow&style=social)](https://github.com/marciatmerritt) -->
 </div>
 
 
