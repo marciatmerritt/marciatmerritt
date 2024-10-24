@@ -10,6 +10,7 @@
       </a>
     </div>
     <img src="https://komarev.com/ghpvc/?username=marciatmerritt&style=flat-square&color=blue" alt=""/>
+    [![GitHub Marcia](https://img.shields.io/github/followers/marciatmerritt?label=follow&style=social)](https://github.com/marciatmerritt)
 </div>
 
 
@@ -138,28 +139,101 @@ How do you see someone with my background fitting into your current initiatives?
 ```
 
 ## 🛠️ Technologies & Tools:
-<div style="width: 100%; margin: 0 auto;">
-      <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-plain-wordmark.svg" title="JUnit" alt="JUnit" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jest/jest-plain.svg" title="Jest" alt="Jest" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="PostgreSQL" alt="PostgreSQL" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
-      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" title="Jira" alt="Jira" width="40" height="40"/>&nbsp;
-</div>
 
+<table>
+  <tr>
+    <td>CI/CD</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jenkins/jenkins-original.svg" width="40" height="40" title="Jenkins" alt="Jenkins" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/github/github-original.svg" width="40" height="40" title="GitHub" alt="GitHub" />
+    </td>
+  </tr>
+  <tr>
+    <td>SysOps</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" title="Azure" alt="Azure" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/powershell/powershell-original.svg" width="40" height="40" title="PowerShell" alt="PowerShell" />
+      <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-official.svg" width="40" height="40" title="Bash" alt="Bash" />
+    </td>
+  </tr>
+  <tr>
+    <td>Backend</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/java/java-original.svg" width="40" height="40" title="Java" alt="Java" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40" title="Spring" alt="Spring" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/python/python-original.svg" width="40" height="40" title="Python" alt="Python" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" width="40" height="40" title="PHP" alt="PHP" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/graphql/graphql-plain.svg" width="40" height="40" title="GraphQL" alt="GraphQL" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/xml/xml-original.svg" width="40" height="40" title="XML" alt="XML" />
+      <img src="https://www.vectorlogo.zone/logos/json/json-ar21.svg" title="JSON" alt="JSON" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>Frontend</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/javascript/javascript-original.svg" width="40" height="40" title="JavaScript" alt="JavaScript" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/typescript/typescript-original.svg" width="40" height="40" title="TypeScript" alt="TypeScript" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/react/react-original.svg" width="40" height="40" title="React" alt="React" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg" title="Vite" alt="Vite" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/redux/redux-original.svg" width="40" height="40" title="Redux" alt="Redux" />
+      <img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" width="40" height="40" title="NPM" alt="NPM" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/jest/jest-plain.svg" width="40" height="40" title="Jest" alt="Jest" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/webpack/webpack-original.svg" width="40" height="40" title="Webpack" alt="Webpack" />
+      <img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" title="SASS" alt="SASS" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain-wordmark.svg" title="Axios" alt="Axios" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>Microservices</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/docker/docker-original.svg" width="40" height="40" title="Docker" alt="Docker" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/spring/spring-original.svg" width="40" height="40" title="Spring Boot" alt="Spring Boot" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Express.js" alt="Express.js" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>Databases/Datastores</td>
+    <td>
+      <!-- <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mongodb/mongodb-original.svg" width="40" height="40" title="MongoDB" alt="MongoDB"/> -->
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/mysql/mysql-original.svg" width="40" height="40" title="MySQL" alt="MySQL" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/oracle/oracle-original.svg" width="40" height="40" title="Oracle" alt="Oracle" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/postgresql/postgresql-original.svg" width="40" height="40" title="PostgreSQL" alt="PostgreSQL" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/sqldeveloper/sqldeveloper-original.svg" title="SQL" alt="SQL" width="40" height="40" />
+    </td>
+  </tr>
+  <tr>
+    <td>IDEs</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/vscode/vscode-original.svg" width="40" height="40" title="VSCode" alt="VSCode" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/pycharm/pycharm-original.svg" width="40" height="40" title="PyCharm" alt="PyCharm" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/intellij/intellij-original.svg" width="40" height="40" title="IntelliJ" alt="IntelliJ" />
+    </td>
+  </tr>
+  <tr>
+    <td>Others/Misc</td>
+    <td>
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/gitlab/gitlab-original.svg" width="40" height="40" title="GitLab" alt="GitLab" />
+      <img src="https://github.com/devicons/devicon/blob/v2.13.0/icons/git/git-original.svg" width="40" height="40" title="Git" alt="Git" />
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40" height="40" title="Postman" alt="Postman" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" width="40" height="40" title="Swagger" alt="Swagger" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original-wordmark.svg" width="40" height="40" title="Jira" alt="Jira" />
+      <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" width="40" height="40" title="Trello" alt="Trello" />
+    </td>
+  </tr>
+</table>
+
+
+<br/>
 
 ## 🔥 My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marciatmerritt&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+<!-- [![Marcia's GitHub stats](https://github-readme-stats.vercel.app/api?username=marciatmerritt)](https://github.com/anuraghazra/github-readme-stats) -->
+
+<!-- ![marciatmerritt github-trophies](https://stats.dooboo.io/api/github-trophies?login=marciatmerritt) -->
+
+![marciatmerritt github-stats](https://stats.dooboo.io/api/github-stats-advanced?login=marciatmerritt)
